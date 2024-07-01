@@ -1,0 +1,13 @@
+{
+  "app": {
+    "url": "127.0.0.1",
+    "port": 8000
+  },
+  "dao":
+  {
+    "user": "root",
+    "password": "LIshuo@root123",
+    "address": "localhost:3306",
+    "database": "ActixWebBlog"
+  }
+}
